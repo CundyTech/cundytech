@@ -16,7 +16,7 @@ const dan = {
     "trail running",
     "strength training",
     "gardening",
-    "family time"
+    "family"
   ]
 }
 ```
