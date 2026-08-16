@@ -9,7 +9,7 @@
 const dan = {
   role: "Lead Software Engineer",
   company: "Flexera",
-  code: [Go, "C#", TypeScript],
+  code: [Go, "C#", TypeScript, JavaScript],
   offTheClock: [
     "mountain biking",
     "rock climbing",
